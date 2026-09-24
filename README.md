@@ -1,11 +1,5 @@
 # REFactor Race Python
 
-## EQUIPE
-
-- Integrante 1
-- Integrante 2
-- Integrante 3
-
 ## DESCRIÇÃO
 
 Refatoração de um sistema legado de processamento de pedidos (`src/legacy_checkout.py`), mantendo o comportamento original e comprovando a melhoria com testes e métricas.
